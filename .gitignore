@@ -1,0 +1,30 @@
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code local workspace settings
+.vscode/
+
+# Temporary Microsoft Office files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies and generated test artifacts
+node_modules/
+playwright-report/
+test-results/
+
+# Debug logs
+*.log
+
+# Python cache (if helper scripts are added later)
+__pycache__/
+*.pyc
